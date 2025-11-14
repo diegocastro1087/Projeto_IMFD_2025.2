@@ -6,7 +6,7 @@ const validacao = document.getElementById('validar_erro')
 form.addEventListener('submit', (e) => {
     let valido = true
     validacao.innerHTML = '';
-    let mensagens = ''
+    let mensagens = '' 
 
     if (email.value.trim() == '') {
         e.preventDefault()
