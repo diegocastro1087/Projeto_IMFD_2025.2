@@ -1,6 +1,6 @@
 const DIV_GRAF1 = document.getElementById('grafico1');
 const DIV_GRAF2 = document.getElementById('grafico2');
-
+  
 new Chart(DIV_GRAF1, {
     type: 'bar',
     data: {
