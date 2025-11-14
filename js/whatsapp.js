@@ -1,2 +1,2 @@
 const w = 'whatshapp'
-console.log(w)
+console.log(w) 
